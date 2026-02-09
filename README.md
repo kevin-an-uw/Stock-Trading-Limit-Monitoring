@@ -30,7 +30,7 @@ How were limit usages determined? The limits on the trading team's shared holdin
 <img width="503" height="463" alt="image" src="https://github.com/user-attachments/assets/e5ce38ba-d64d-4c0e-a890-931f4c212250" />
 
 ### Excel Output:
-Pivot tables, lookups, and conditional formulas were used. See excel_accounts_analysis.xlsx file for details.
+The pivot table aggregated trade blotter Data. Lookups were used to obtain Balance and Credit limit values from separate tables. Conditional formulas were used for the Breach column, based on Limit Usage being greater than 80% or 100%.
 <img width="979" height="630" alt="image" src="https://github.com/user-attachments/assets/644f49db-728f-4238-87e0-1b79e9101800" />
 
 
